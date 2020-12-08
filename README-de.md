@@ -48,11 +48,11 @@ I analysed this repo according to the clean code standards on [Better Code Hub](
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/emilybache/GildedRose-Refactoring-Kata?branch=master)](https://bettercodehub.com/) 
 
-## Task I (Already done as a mob)
-Hmm the tests seem to be broken, can you fix the "Golden"-Test?
+## Aufgabe I
+Hmm der Test scheint nicht korrekt zu funktionieren, kannst du den "Golden"-Test beheben?
+Entwickelt sich der Wert der Produkte im Laufe der Zeit unterschiedlich? Skizziere den Verlauf der einzelnen Produkte.
 
-## Task II
-Do the different products age diffrently? Outline the evolution of the products.
-Since now we can be sure not to break things lets refactor this code to make it more readable!
+## Aufgabe II
+Jetzt wo wir uns sicher sein können, dass wir nichts kaputt machen, wird es an der Zeit den Code lesbarer zu machen!
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/modernSE/kata-refactoring-gilded-rose) 
