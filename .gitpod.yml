@@ -1,4 +1,12 @@
+
 checkoutLocation: "gilded-rose-kata"
 workspaceLocation: "./gilded-rose-kata/Java"
 tasks:
-  - init: mvn install -DskipTests=true
+  - init: |
+      git remote set-url origin https://github.com/modernSE/kata-refactoring-gilded-rose
+      mvn install -DskipTests=true
+
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
